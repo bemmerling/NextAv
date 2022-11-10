@@ -1,0 +1,15 @@
+C:\Users\bdemm\Projects\NextAv\NextAv\tools\AcftLoader\bin\Debug\net6.0\AcftLoader.exe
+C:\Users\bdemm\Projects\NextAv\NextAv\tools\AcftLoader\bin\Debug\net6.0\AcftLoader.deps.json
+C:\Users\bdemm\Projects\NextAv\NextAv\tools\AcftLoader\bin\Debug\net6.0\AcftLoader.runtimeconfig.json
+C:\Users\bdemm\Projects\NextAv\NextAv\tools\AcftLoader\bin\Debug\net6.0\AcftLoader.dll
+C:\Users\bdemm\Projects\NextAv\NextAv\tools\AcftLoader\bin\Debug\net6.0\AcftLoader.pdb
+C:\Users\bdemm\Projects\NextAv\NextAv\tools\AcftLoader\obj\Debug\net6.0\AcftLoader.csproj.AssemblyReference.cache
+C:\Users\bdemm\Projects\NextAv\NextAv\tools\AcftLoader\obj\Debug\net6.0\AcftLoader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bdemm\Projects\NextAv\NextAv\tools\AcftLoader\obj\Debug\net6.0\AcftLoader.AssemblyInfoInputs.cache
+C:\Users\bdemm\Projects\NextAv\NextAv\tools\AcftLoader\obj\Debug\net6.0\AcftLoader.AssemblyInfo.cs
+C:\Users\bdemm\Projects\NextAv\NextAv\tools\AcftLoader\obj\Debug\net6.0\AcftLoader.csproj.CoreCompileInputs.cache
+C:\Users\bdemm\Projects\NextAv\NextAv\tools\AcftLoader\obj\Debug\net6.0\AcftLoader.dll
+C:\Users\bdemm\Projects\NextAv\NextAv\tools\AcftLoader\obj\Debug\net6.0\refint\AcftLoader.dll
+C:\Users\bdemm\Projects\NextAv\NextAv\tools\AcftLoader\obj\Debug\net6.0\AcftLoader.pdb
+C:\Users\bdemm\Projects\NextAv\NextAv\tools\AcftLoader\obj\Debug\net6.0\AcftLoader.genruntimeconfig.cache
+C:\Users\bdemm\Projects\NextAv\NextAv\tools\AcftLoader\obj\Debug\net6.0\ref\AcftLoader.dll
