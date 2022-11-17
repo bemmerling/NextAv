@@ -51,3 +51,4 @@ tools/AcftLoader/bin/Debug/net6.0/AcftLoader.pdb
 tools/AcftLoader/obj/project.nuget.cache
 tools/AcftLoader/obj/Debug/net6.0/AcftLoader.assets.cache
 tools/AcftLoader/obj/Debug/net6.0/AcftLoader.csproj.AssemblyReference.cache
+tools/AcftLoader/obj/Debug/net6.0/refint/AcftLoader.dll
