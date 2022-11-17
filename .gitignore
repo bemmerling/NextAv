@@ -44,3 +44,10 @@ tools/AcftLoader/obj/Debug/net6.0/refint/AcftLoader.dll
 tools/AcftLoader/.vs/AcftLoader/DesignTimeBuild/.dtbcache.v2
 tools/AcftLoader/obj/Debug/net6.0/refint/AcftLoader.dll
 tools/AcftLoader/.vs/AcftLoader/DesignTimeBuild/.dtbcache.v2
+tools/AcftLoader/.vs/AcftLoader/DesignTimeBuild/.dtbcache.v2
+tools/AcftLoader/.vs/AcftLoader/v17/.suo
+.gitignore
+tools/AcftLoader/bin/Debug/net6.0/AcftLoader.pdb
+tools/AcftLoader/obj/project.nuget.cache
+tools/AcftLoader/obj/Debug/net6.0/AcftLoader.assets.cache
+tools/AcftLoader/obj/Debug/net6.0/AcftLoader.csproj.AssemblyReference.cache
